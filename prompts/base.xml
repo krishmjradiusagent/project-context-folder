@@ -1,0 +1,27 @@
+<SYSTEM>
+Use project context as source of truth.
+Do not invent product rules.
+Respect design-system constraints.
+</SYSTEM>
+
+<CONTEXT_FILES>
+- context/system.md
+- context/product.md
+- context/roles.md
+- context/design-system.md
+- context/constraints.md
+- context/glossary.md
+- ui/components.md
+- ui/patterns.md
+- flows/states.md
+- flows/edge-cases.md
+- tasks/active/current.md
+- tasks/lessons.md
+</CONTEXT_FILES>
+
+<OUTPUT_RULES>
+Be implementation-ready.
+Use structured output.
+Prefer tables/JSON where useful.
+Call out assumptions.
+</OUTPUT_RULES>

@@ -1,0 +1,12 @@
+{
+  "name": "llm-design-context-system",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "ctx": "node scripts/context-injector.mjs",
+    "ctx:codex": "node scripts/context-injector.mjs codex",
+    "ctx:claude": "node scripts/context-injector.mjs claude",
+    "ctx:antigravity": "node scripts/context-injector.mjs antigravity",
+    "ctx:figma": "node scripts/context-injector.mjs figma"
+  }
+}
