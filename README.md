@@ -1,7 +1,3 @@
-Here’s a clean, production-grade README aligned to your workflow and system.
-
-⸻
-
 # LLM Design Context System
 Persistent context engineering system for product designers using:
 - Codex
@@ -250,9 +246,3 @@ License
 MIT
 
 ---
-If you want next:
-- GitHub Actions (auto validation)
-- `run-task` command (single entrypoint)
-- Codex API auto-execution pipeline
-- Figma token auto-extractor (real MCP flow)
-Say which.
